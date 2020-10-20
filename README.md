@@ -1,6 +1,6 @@
-#React & Express boilerplate
+# React & Express boilerplate
 
-##Quick Start
+## Quick Start
 ```
 # Install dependencies for server
 npm install
