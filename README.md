@@ -1,5 +1,3 @@
-# React & Express boilerplate
-
 ## Quick Start
 ```
 # Install dependencies for server

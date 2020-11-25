@@ -1,0 +1,7 @@
+tomato - #fc3832
+dodgerblue - #0067f4
+light blue #0c87ed
+lavender - #e9caf8
+turqoise - #2ad8dc
+white - #ffffff
+whitesmoke - #f4f6f7
